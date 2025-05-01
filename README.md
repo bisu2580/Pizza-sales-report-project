@@ -68,7 +68,7 @@ The project uses four CSV files:
 
 ## 📌 License
 
-This project is for educational and portfolio use. Not for commercial redistribution.
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
