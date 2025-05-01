@@ -21,12 +21,12 @@ This repository contains a complete Power BI project for analyzing pizza sales u
 
 The project uses four CSV files:
 
-| File Name           | Description                                      |
-| ------------------- | ------------------------------------------------ |
-| `orders.csv`        | Contains order IDs, order dates, and times       |
-| `order_details.csv` | Contains pizza IDs and quantities for each order |
-| `pizzas.csv`        | Includes pizza IDs, prices, and categories       |
-| `pizza_types.csv`   | Includes pizza names and classifications         |
+| File Name                                | Description                                      |
+| ---------------------------------------- | ------------------------------------------------ |
+| [orders.csv](./orders.csv)               | Contains order IDs, order dates, and times       |
+| [order_details.csv](./order_details.csv) | Contains pizza IDs and quantities for each order |
+| [pizzas.csv](./pizzas.csv)               | Includes pizza IDs, prices, and categories       |
+| [pizza_types.csv](./pizza_types.csv)     | Includes pizza names and classifications         |
 
 ---
 
